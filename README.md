@@ -50,6 +50,7 @@ cd your-repo-name```
    ```php artisan serve```
 Visit the application in your browser:
   ```http://localhost:8000/products```
+
 📂 Project Structure
 
     Migrations: Define the database schema for the products table.
